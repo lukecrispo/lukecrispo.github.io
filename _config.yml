@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Luke Crispo
-description: PhD Candidate | Structural and Multidisciplinary Design Optimization
+description: [PhD Candidate | Structural and Multidisciplinary Design Optimization]
 show_downloads: [false]
 
 # github:
