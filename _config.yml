@@ -4,3 +4,7 @@ plugins:
 
 title: Luke Crispo
 description: PhD Candidate | Structural and Multidisciplinary Design Optimization
+show_downloads: [false]
+
+github:
+  repository_url:
