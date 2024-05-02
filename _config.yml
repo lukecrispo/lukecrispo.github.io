@@ -5,7 +5,7 @@ plugins:
 title: Luke Crispo
 description: PhD Candidate | Structural and Multidisciplinary Design Optimization
 show_downloads: false
-logo: /assets/img/Luke_headshot_2023.jpg
+logo: assets/img/Luke_headshot_2023.jpg
 
 # github:
 #  owner_url: https://lukecrispo95.wixsite.com/publications
