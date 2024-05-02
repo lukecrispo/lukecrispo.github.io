@@ -1,12 +1,12 @@
-## Publications
+# Publications
 
-# Journal Publications
+## Journal Publications
 1. (Accepted) **Crispo L**, Kim IY, (2024), "Topology and build orientation optimization for additive manufacturing considering build height and overhang area," _Structural and Multidisciplinary Optimization_.
 2. Kim H, **Crispo L**, Patel A, Galley N, Yeon SM, Son Y, Kim IY, 2024, "Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition," _Rapid Prototyping Journal_. https://doi.org/10.1108/RPJ-11-2023-0400
 3. **Crispo L**, Kim IY, 2021, "Part consolidation for additive manufacturing: a multi-layered topology optimization approach," _International Journal for Numerical Methods in Engineering_. https://doi.org/10.1002/nme.6754
 4. **Crispo L**, Bohrer R, Roper SWK, Kim IY, 2020, "Spatial gradient interface detection in topology optimization for an unstructured mesh," _Structural and Multidisciplinary Optimization_. https://doi.org/10.1007/s00158-020-02688-z
 
-# Conference Publications
+## Conference Publications
 1. **Crispo L**, Kim IY, 2024, "Topology and build orientation optimization for additive manufacturing: influence of printing on raft and build plate," _SAE Technical Paper_. https://doi.org/10.4271/2024-01-2572
 2. Kim IY, Huang Y, **Crispo L**, 2023, "Multi-material and multi-joint topology optimization considering multiple design spaces," _Proceedings of the ASME 2023 IDETC-CIE Conference_. https://doi.org/10.1115/DETC2023-113451
 3. **Crispo L**, Kim IY, 2023, "Automatic orientation initialization in simultaneous topology and build orientation optimization for additive manufacturing," _Canadian Aeronautics and Space Institute AERO 2023 Conference_.
