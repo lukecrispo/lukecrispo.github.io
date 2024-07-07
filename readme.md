@@ -7,7 +7,7 @@
 4. **Crispo L**, Bohrer R, Roper SWK, Kim IY, 2020, "Spatial gradient interface detection in topology optimization for an unstructured mesh," _Structural and Multidisciplinary Optimization_. https://doi.org/10.1007/s00158-020-02688-z
 
 ## Conference Publications
-1.**Crispo L**, Kim IY, 2024, "Printing Cost and Time Minimization Using Concurrent Topology and Build Orientation Optimization" _RAPID + TCT 2024_.
+1. **Crispo L**, Kim IY, 2024, "Printing Cost and Time Minimization Using Concurrent Topology and Build Orientation Optimization" _RAPID + TCT 2024_.
 2. **Crispo L**, Kim IY, 2024, "Topology and build orientation optimization for additive manufacturing: influence of printing on raft and build plate," _SAE Technical Paper_. https://doi.org/10.4271/2024-01-2572
 3. Kim IY, Huang Y, **Crispo L**, 2023, "Multi-material and multi-joint topology optimization considering multiple design spaces," _Proceedings of the ASME 2023 IDETC-CIE Conference_. https://doi.org/10.1115/DETC2023-113451
 4. **Crispo L**, Kim IY, 2023, "Automatic orientation initialization in simultaneous topology and build orientation optimization for additive manufacturing," _Canadian Aeronautics and Space Institute AERO 2023 Conference_.
