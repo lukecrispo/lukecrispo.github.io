@@ -1,14 +1,14 @@
 # Publications
 
 ## Journal Publications
-1. **Crispo L**, Kim IY, 2025, "Combined topology and build orientation optimization for support structure minimization in additive manufacturing," _Structural and Multidisciplinary Optimization_. [🔗 DOI](https://doi.org/10.1007/s00158-025-04124-6) l [📄 PDF](publications/)
+1. **Crispo L**, Kim IY, 2025, "Combined topology and build orientation optimization for support structure minimization in additive manufacturing," _Structural and Multidisciplinary Optimization_. [🔗 DOI](https://doi.org/10.1007/s00158-025-04124-6) l [📄 PDF](publications/2025-Crispo-Combined_TO_BO_Support_Min_AM.pdf)
 2. **Crispo L**, Kim IY, 2024, "Topology and build orientation optimization for additive manufacturing considering build height and overhang area," _Structural and Multidisciplinary Optimization_. [🔗 DOI](https://doi.org/10.1007/s00158-024-03808-9) l [📄 PDF](publications/2024-Crispo-TO&BO_Build_Height_Overhang_Area.pdf)
 3. Kim H, **Crispo L**, Patel A, Galley N, Yeon SM, Son Y, Kim IY, 2024, "Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition," _Rapid Prototyping Journal_. [🔗 DOI](https://doi.org/10.1108/RPJ-11-2023-0400) l [📄 PDF](publications/2024-Kim-Design_metal_AM_aircraft_seat_leg_TO_PD.pdf)
 4. **Crispo L**, Kim IY, 2021, "Part consolidation for additive manufacturing: a multi-layered topology optimization approach," _International Journal for Numerical Methods in Engineering_. [🔗 DOI](https://doi.org/10.1002/nme.6754) l [📄 PDF](publications/2021-Crispo-PC_for_AM.pdf)
 5. **Crispo L**, Bohrer R, Roper SWK, Kim IY, 2020, "Spatial gradient interface detection in topology optimization for an unstructured mesh," _Structural and Multidisciplinary Optimization_. [🔗 DOI](https://doi.org/10.1007/s00158-020-02688-z) [📄 PDF](publications/2020-Crispo-Spatial_Gradient_Interface_Detection.pdf)
 
 ## Conference Publications
-1.  **Crispo L**, Kim IY, 2025, "Additive Manufacturing Cost Minimization using Multi-Objective Topology and Build Orientation Optimization", _WCSMO-16_. [📄 PDF](publications/)
+1.  **Crispo L**, Kim IY, 2025, "Additive Manufacturing Cost Minimization using Multi-Objective Topology and Build Orientation Optimization", _WCSMO-16_. [📄 PDF](publications/2025-Kim-AM_Cost_Min_Multi_ObjectiveTO_BO.pdf)
 2.  Chai K, **Crispo L**, Krsikapa D, Kuehn JO, Cordes P, Wechsler B, Pechet G, Kim IY, "Design and Build of an Aircraft Smart Table Using Additive Manufacturing and Topology Optimization," _AIAA AVIATION FORUM AND ASCEND 2024_. [🔗 DOI](https://doi.org/10.2514/6.2024-4028) l [📄 PDF](publications/2024-Chai-Design_Build_Aircraft_Smart_Table_AM_TO.pdf)
 3. **Crispo L**, Kim IY, 2024, "Printing Cost and Time Minimization Using Concurrent Topology and Build Orientation Optimization," _RAPID + TCT 2024_. [📄 PDF](publications/2024-Crispo-Printing_Cost_Time_Min_Concurent_TO_BO.pdf)
 4. Howes J, McKenzie A, Dossett W, **Crispo L**, Kim IY, 2024, “Optimization of an aircraft fuselage assembly to minimize radiated sound power,” _186th Meeting of the Acoustical Society of America_. [🔗 DOI](https://doi.org/10.1121/10.0027716) l [📄 PDF](publications/2024-Howes-Opt_aircraft_fuselage_minimize_radiated_SP.pdf)
