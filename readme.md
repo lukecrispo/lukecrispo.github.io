@@ -1,7 +1,7 @@
 # Publications
 
 ## Journal Publications
-1. **Crispo L**, Kim IY, 2024, "Topology and build orientation optimization for additive manufacturing considering build height and overhang area," _Structural and Multidisciplinary Optimization_. [doi:10.1007/s00158-024-03808-9](https://doi.org/10.1007/s00158-024-03808-9) [download](publications/2020-Crispo-Assembly_Level_TO.pdf)
+1. **Crispo L**, Kim IY, 2024, "Topology and build orientation optimization for additive manufacturing considering build height and overhang area," _Structural and Multidisciplinary Optimization_. [doi:10.1007/s00158-024-03808-9](https://doi.org/10.1007/s00158-024-03808-9) 
 2. Kim H, **Crispo L**, Patel A, Galley N, Yeon SM, Son Y, Kim IY, 2024, "Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition," _Rapid Prototyping Journal_. [doi:10.1108/RPJ-11-2023-0400](https://doi.org/10.1108/RPJ-11-2023-0400)
 3. **Crispo L**, Kim IY, 2021, "Part consolidation for additive manufacturing: a multi-layered topology optimization approach," _International Journal for Numerical Methods in Engineering_. [doi:10.1002/nme.6754](https://doi.org/10.1002/nme.6754)
 4. **Crispo L**, Bohrer R, Roper SWK, Kim IY, 2020, "Spatial gradient interface detection in topology optimization for an unstructured mesh," _Structural and Multidisciplinary Optimization_. [doi:10.1007/s00158-020-02688-z](https://doi.org/10.1007/s00158-020-02688-z)
@@ -23,4 +23,4 @@
 14. Hardman A, **Crispo L**, Sirola T, Jalayer S, Ann J, Lee J, Song JH, Kim IY, 2021, "Structural design optimization for CFRP in a personal aerial vehicle propulsor boom," _CASI AERO 2021_.
 15. **Crispo L**, Kim IY, 2020, "Topology optimization for part consolidation considering the tradeoff between support volume and joining costs," _ACSMO 2020_. 
 16. Krsikapa D, **Crispo L**, Oh K, Kim IY, 2020, "Gradient-based pipe routing tool for aero-engines," _2020 CSME International Congress_. [doi:10.32393/csme.2020.80](https://doi.org/10.32393/csme.2020.80)
-17. **Crispo L**, Kim IY, 2020, "Assembly level topology optimization towards a part consolidation algorithm for additive manufacturing," _AIAA SciTech 2020 Forum_. [doi:10.2514/6.2020-0893](https://doi.org/10.2514/6.2020-0893)
+17. **Crispo L**, Kim IY, 2020, "Assembly level topology optimization towards a part consolidation algorithm for additive manufacturing," _AIAA SciTech 2020 Forum_. [doi:10.2514/6.2020-0893](https://doi.org/10.2514/6.2020-0893)[📄 PDF](publications/2020-Crispo-Assembly_Level_TO.pdf)
