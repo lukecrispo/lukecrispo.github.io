@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Luke Crispo | PhD
-description: Research Council Officer at NRC <br> Structural Full Scale Testing <br> Topology Optimization | Additive Manufacturing
+description: Research Council Officer at NRC <br> Structural Full Scale Testing <br> Topology Optimization <br> Additive Manufacturing
 show_downloads: false
 logo: assets/img/Luke_headshot_2023.jpg
 
