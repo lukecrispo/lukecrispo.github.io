@@ -2,8 +2,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Luke Crispo <br> Research Council Officer at NRC <br> PhD in Mechanical Engineering
-description: PhD in Topology Optimization for Additive Manufacturing <br> Structural Full Scale Testing <br> Research Council Officer <br> National Research Council Canada
+title: Luke Crispo | PhD
+description: Research Council Officer at NRC <br> Structural Full Scale Testing <br> Topology Optimization | Additive Manufacturing
 show_downloads: false
 logo: assets/img/Luke_headshot_2023.jpg
 
